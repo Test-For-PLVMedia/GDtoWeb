@@ -1,0 +1,14 @@
+:root {
+  --light: #fefefe;
+  --dark: #413447;
+  --blue: #0a7cab;
+  --green: #02bd88
+}
+
+.right-bar {
+  background-color: var(--blue);
+}
+
+.top-bar {
+  background-color: var(--green);
+}
